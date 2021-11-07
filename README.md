@@ -9,3 +9,18 @@ To reduce accident rate: Commonly, the traffic accident prediction problem has b
 Developed by :- Md. Mesbahul Islam.
                 North South University
                Email: mesbahul.islam@northsouth.edu
+
+# App Interface
+<img src="./resources/Picture1.png">  
+
+# App Interface
+<img src="./resources/Picture2.png"> 
+
+# App Interface
+<img src="./resources/Picture3.png"> 
+
+# App Interface
+<img src="./resources/Picture4.png"> 
+
+# App Poster
+<img src="./resources/poster.png"> 

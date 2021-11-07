@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:minWidth="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="30dp"
+    android:paddingBottom="60dp"
+
+    android:paddingRight="30dp"
+    android:paddingLeft="30dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Category"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+    <com.jaredrummler.materialspinner.MaterialSpinner
+        android:id="@+id/spinner"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        app:ms_hint="Select "
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/upload"
+        android:text="upload Image"
+        />
+</LinearLayout>
